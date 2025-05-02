@@ -49,3 +49,5 @@ Implementação em Java que simula as funcionalidades básicas de um iPhone, con
 +-------------------+       | + atualizarPagina():  |
                             |   void                |
                             +-----------------------+
+
+## 🏗️ Estrutura do Projeto
