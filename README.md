@@ -71,3 +71,5 @@ src/
 │                   └── Main.java
 
 ```
+
+## 🚀 Como Executar
