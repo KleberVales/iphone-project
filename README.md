@@ -82,3 +82,8 @@ git clone https://github.com/seu-usuario/iphone-poo-java.git
 ```
 cd iphone-poo-java
 ```
+3. Compile e execute:
+```
+javac src/main/java/com/exemplo/iphone/Main.java -d ./bin
+java -cp ./bin com.exemplo.iphone.Main
+```
