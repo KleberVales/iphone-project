@@ -1,6 +1,6 @@
 # iPhone - Modelagem POO em Java
 
-![Java](https://img.shields.io/badge/Java-17-blue)
+![Java](https://img.shields.io/badge/Java-21-blue)
 ![UML](https://img.shields.io/badge/UML-Diagram-orange)
 ![POO](https://img.shields.io/badge/OOP-Design-success)
 
