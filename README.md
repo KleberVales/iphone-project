@@ -73,3 +73,7 @@ src/
 ```
 
 ## 🚀 Como Executar
+
+```
+git clone https://github.com/seu-usuario/iphone-poo-java.git
+```
