@@ -78,3 +78,7 @@ src/
 ```
 git clone https://github.com/seu-usuario/iphone-poo-java.git
 ```
+2. Navegue até o diretório do projeto:
+```
+cd iphone-poo-java
+```
