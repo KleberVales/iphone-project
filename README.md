@@ -50,4 +50,6 @@ Implementação em Java que simula as funcionalidades básicas de um iPhone, con
                             |   void                |
                             +-----------------------+
 
+```
+
 ## 🏗️ Estrutura do Projeto
