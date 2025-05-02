@@ -53,3 +53,21 @@ Implementação em Java que simula as funcionalidades básicas de um iPhone, con
 ```
 
 ## 🏗️ Estrutura do Projeto
+
+```
+src/
+├── main/
+│   └── java/
+│       └── com/
+│           └── exemplo/
+│               └── iphone/
+│                   ├── interfaces/
+│                   │   ├── AparelhoTelefonico.java
+│                   │   ├── NavegadorInternet.java
+│                   │   └── ReprodutorMusical.java
+│                   ├── model/
+│                   │   ├── Dispositivo.java
+│                   │   └── IPhone.java
+│                   └── Main.java
+
+```
